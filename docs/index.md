@@ -1,5 +1,4 @@
-____
-```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -30,5 +29,4 @@ ____
     </main>
   </body>
 </html>
-```
----
+
