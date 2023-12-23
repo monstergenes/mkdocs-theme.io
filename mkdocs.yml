@@ -1,9 +1,9 @@
 site_name: munstergenes
-site_url:  https://example.com/
+site_url: https://monstergenes.github.io/mkdocs-theme.io/
 site_description: my-theme-project
 site_author: munstergenes
 
-repo_url: https://example.com/foo/
+repo_url: https://github.com/monstergenes/mkdocs-theme.io/
 edit_uri: root/custom_theme/docs/
 
 Theme:
