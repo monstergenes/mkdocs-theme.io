@@ -1,0 +1,25 @@
+site_name: munstergenes
+site_url:  https://example.com/
+site_description: my-theme-project
+site_author: munstergenes
+
+repo_url: https://example.com/foo/
+edit_uri: root/custom_theme/docs/
+
+Theme:
+    name: munsterskreations
+    locale: en
+    highlights: true 
+    hljs_languages:
+        - yaml
+        - django
+    analytics: {}
+
+
+    custom_theme:
+          - main: main.html
+          - Css: styles.css
+    docs:
+          - about: about.md
+          - index: index.md
+
